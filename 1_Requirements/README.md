@@ -1,7 +1,6 @@
 
 # Requirements/Solution Design
-This section details the requirements and solutions created for our system.
-
+This section details the requirements and solutions created for our system.\
 High-Level Requirements:\
 •	Allow the user to depend on our product and reduce its dependency on others.\
 •	Introducing the stick at ground level such as NGO’s and blind schools can help them adopt the mechanism  which would them in a longer run.\
