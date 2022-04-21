@@ -13,7 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Install cppcheck
-      run: sudo apt-get-y install cppcheck
+    - name: get_cppcheck
+      run: sudo apt-get install cppcheck
     - name: cppcheck code
       run: cppcheck 3_Implementation
