@@ -1,4 +1,6 @@
 # M2_EWS
+According to a recent survey, there are 37 million blind persons worldwide, 15 million of them live in India. Worse, 75% of these blindness cases may have been avoided. As a result, there is a critical need for improvement in the status of the visually impaired in India. Obstacle detection is a difficult and time-consuming task for visually impaired people.The Electronic Walking Stick (EWS) is a suggestion that will assist the user in detecting obstacles. It can automatically detect an impediment in front of the person and provide feedback by shaking the walking stick and emitting a warning sound for the user while also acknowledging the surrounding people.
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/df20370c248c43fd95e5c4bf915d3236)](https://www.codacy.com/gh/nidhichawla1/M2_EWS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nidhichawla1/M2_EWS&amp;utm_campaign=Badge_Grade)
 [![cppcheck-action](https://github.com/nidhichawla1/M2_EWS/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/nidhichawla1/M2_EWS/actions/workflows/Cppcheck.yml)
 [![Build CI windows](https://github.com/nidhichawla1/M2_EWS/actions/workflows/Build_windows.yml/badge.svg)](https://github.com/nidhichawla1/M2_EWS/actions/workflows/Build_windows.yml)
