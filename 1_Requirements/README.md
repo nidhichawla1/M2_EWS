@@ -1,4 +1,3 @@
-
 # Requirements/Solution Design
 This section details the requirements and solutions created for our system.\
 High-Level Requirements:\
